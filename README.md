@@ -45,12 +45,9 @@
     sudo apt install linux-cpupower cpufrequtils 
 
 # Command to verify what the system is doing
-
-    sudo cpupower -c all frequency-set -g performance
-
 Output on my system (one block of output like this for each core)
 
-
+    $sudo cpupower -c all frequency-set -g performance
     analyzing CPU 0:
       driver: acpi-cpufreq
       CPUs which run at the same hardware frequency: 0
