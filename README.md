@@ -17,6 +17,7 @@
     
     sudo apt install linux-cpupower cpufrequtils 
 
+# Command to verify what the system is doing
 
     sudo cpupower -c all frequency-set -g performance
 
