@@ -62,7 +62,7 @@ Check that cpufrequtils is installed and that it should have it’s own systemd 
        Jan 16 16:16:16 pi cpufrequtils[38101]: CPUFreq Utilities: Setting ondemand CPUFreq governor...CPU0...CPU1...CPU2...CPU3...CPU4...
        Jan 16 16:16:16 pi systemd[1]: Started LSB: set CPUFreq kernel parameters.
 
-That looks reasonable! Ofc it’s set to ondemand – let’s change to performance :slight_smile:
+That looks reasonable! It’s set to ondemand – let’s change to performance
 
 # Edit the tools: 
 
