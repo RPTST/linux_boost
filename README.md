@@ -117,4 +117,8 @@ Reload systemd, enable the service, and reboot:
     $systemctl daemon-reload
     $systemctl enable turbo-boost
 
-After rebooting and reconnecting you can issue cat /sys/devices/system/cpu/cpufreq/boost to verify boost is working. It should be 1 for enabled, or 0 for disabled.
+After rebooting and reconnecting you can issue:
+    
+    $cat /sys/devices/system/cpu/cpufreq/boost 
+    
+This will verify boost is working. It should be 1 for enabled, or 0 for disabled.
