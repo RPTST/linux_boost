@@ -1,4 +1,4 @@
-# linux_boost
+# Proxmox and Debian boost
 
 # How to check if boost is working
 
