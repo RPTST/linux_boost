@@ -21,7 +21,7 @@
     Vendor ID:           AuthenticAMD
     CPU family:          23
     Model:               8
-    Model name:          AMD Ryzen 7 2700 Eight-Core Processor
+    Model name:          AMD Ryzen 7 1700 Eight-Core Processor
     Stepping:            2
     CPU MHz:             2399.280
     CPU max MHz:         3200.0000
