@@ -121,4 +121,4 @@ After rebooting and reconnecting you can issue:
     
     $cat /sys/devices/system/cpu/cpufreq/boost 
     
-This will verify boost is working. It should be 1 for enabled, or 0 for disabled.
+This will verify boost is working. If it is working it should return a 1 for enabled, or 0 for disabled.
